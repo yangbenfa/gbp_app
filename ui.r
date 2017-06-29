@@ -163,7 +163,7 @@ shinyUI(navbarPage(
               
               tabsetPanel(
                 
-                id = "av_sn", selected = "av_sn", type = "tabs", position = "above",
+                id = "av_sn", selected = "av_sn", type = "tabs", position = NULL,
                 
                 tabPanel(
                   
